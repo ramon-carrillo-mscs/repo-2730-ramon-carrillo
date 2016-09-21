@@ -1,6 +1,7 @@
 ﻿'Name: Average Project
 'Purpose: Calculates Average Test Scores
-'Author: Ramon Carrillo on 9/20/16
+'Author: Ramon Carrillo on 9/20/16   
+' I hate github
 
 
 
