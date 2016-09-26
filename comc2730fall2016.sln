@@ -13,7 +13,9 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "rcarrillo1e1", "rcarrillo1e
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "rcarrillo1f1", "rcarrillo1f1\rcarrillo1f1.vbproj", "{42A2D0B1-171A-4822-A977-1AC41428A6E8}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "rmcarrillo1g1", "rmcarrillo1g1\rmcarrillo1g1.vbproj", "{C94A2F3C-E77F-4383-90EE-BC2B852C7E57}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "rcarrillo1g1", "rmcarrillo1g1\rcarrillo1g1.vbproj", "{C94A2F3C-E77F-4383-90EE-BC2B852C7E57}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "rcarrillo1h1", "rcarrillo1h1\rcarrillo1h1.vbproj", "{497C6024-226F-405B-ACC2-BFA50BF0626C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{C94A2F3C-E77F-4383-90EE-BC2B852C7E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C94A2F3C-E77F-4383-90EE-BC2B852C7E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C94A2F3C-E77F-4383-90EE-BC2B852C7E57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{497C6024-226F-405B-ACC2-BFA50BF0626C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497C6024-226F-405B-ACC2-BFA50BF0626C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497C6024-226F-405B-ACC2-BFA50BF0626C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497C6024-226F-405B-ACC2-BFA50BF0626C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
