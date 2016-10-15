@@ -21,6 +21,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "rcarrillo2a1", "rcarrillo2a
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "rcarrillo2b1", "rcarrillo2b1\rcarrillo2b1.vbproj", "{25ADC1C3-9A21-42DD-A54E-7B704F9294BA}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "rcarrillo2c1", "rcarrillo2c1\rcarrillo2c1.vbproj", "{882AC397-A03A-4CE9-BAA2-3BBF8ED622C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{25ADC1C3-9A21-42DD-A54E-7B704F9294BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25ADC1C3-9A21-42DD-A54E-7B704F9294BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25ADC1C3-9A21-42DD-A54E-7B704F9294BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{882AC397-A03A-4CE9-BAA2-3BBF8ED622C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882AC397-A03A-4CE9-BAA2-3BBF8ED622C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882AC397-A03A-4CE9-BAA2-3BBF8ED622C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882AC397-A03A-4CE9-BAA2-3BBF8ED622C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
