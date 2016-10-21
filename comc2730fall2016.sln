@@ -23,6 +23,10 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "rcarrillo2b1", "rcarrillo2b
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "rcarrillo2c1", "rcarrillo2c1\rcarrillo2c1.vbproj", "{882AC397-A03A-4CE9-BAA2-3BBF8ED622C9}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "rmcarrillo2f1", "Treeline Solution\Treeline Project\rmcarrillo2f1.vbproj", "{78F6264D-D898-4ADB-B04E-313E7B40952A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "rmcarrillo2d1", "rmcarrillo2d1\rmcarrillo2d1.vbproj", "{560A4CB6-1E23-4F72-8377-333109461EC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{882AC397-A03A-4CE9-BAA2-3BBF8ED622C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{882AC397-A03A-4CE9-BAA2-3BBF8ED622C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{882AC397-A03A-4CE9-BAA2-3BBF8ED622C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78F6264D-D898-4ADB-B04E-313E7B40952A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F6264D-D898-4ADB-B04E-313E7B40952A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F6264D-D898-4ADB-B04E-313E7B40952A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F6264D-D898-4ADB-B04E-313E7B40952A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{560A4CB6-1E23-4F72-8377-333109461EC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{560A4CB6-1E23-4F72-8377-333109461EC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{560A4CB6-1E23-4F72-8377-333109461EC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{560A4CB6-1E23-4F72-8377-333109461EC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
