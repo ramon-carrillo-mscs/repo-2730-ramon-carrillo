@@ -11,7 +11,7 @@
 
         Dim strItem As String
         Dim strColor As String
-        strItem = "YMBlueX"
+        strItem = txt04Substring.Text
         strColor = strItem.Substring(2, 4)
         lbl04Substring.Text = strColor
 
@@ -61,8 +61,31 @@
 
 
         '#12 Len/Remove:
-        Dim dblNumber As Double = txt12LenRemove.Text
+        Dim strText As String = txt12LenRemove.Text
+        Dim strNumber As String = 1000
+        strText = strText.Remove(3, 2)
+        txt12LenRemove.Text = strText
+        lbl12LenRemove.Text = (strText / 100) * strNumber
 
+        '#13 Like
+        Dim strNumb1 As String = txt13Like.Text
+        Dim strNumb2 As String = txt13Like.Text
+        Dim strShip1 As String = "Shipping 25"
+        Dim strShip2 As String = "Shipping 30"
+        Dim strWrong As String = "Not valid"
+        If strNumb1 Like "[6] [0] [5] ##" Then
+            strNumb1 = strShip1
+        Else
+            strNumb2 = strWrong
+            'If strNumb2 Like "[6] [0] [6] ##" Then
+            '    lbl13Like.Text = strShip2
+            'Else
+            '    lbl13Like.Text = strWrong
+            'End If
+
+        End If
+        lbl13Like.Text = strShip1
+        lbl13Like.Text = strShip2
 
 
     End Sub
