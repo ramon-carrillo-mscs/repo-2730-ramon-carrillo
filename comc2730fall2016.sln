@@ -35,9 +35,11 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "rcarrillo2h1", "rcarrillo2h
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "rcarrillo2i1", "rcarrillo2i1\rcarrillo2i1.vbproj", "{6833991F-6CC5-4618-B44B-4707FAE0240D}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "rmcarrillo2j1", "rcarrillo2j1\rmcarrillo2j1.vbproj", "{58753749-2498-4BD0-8B25-D280A42D40A5}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "rcarrillo2j1", "rcarrillo2j1\rcarrillo2j1.vbproj", "{58753749-2498-4BD0-8B25-D280A42D40A5}"
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "rcarrillo3a1", "rcarrillo3a1\rcarrillo3a1.vbproj", "{74DC0562-5D9C-48A0-9386-EB8DE42512CC}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "rcarrillo3b1", "rcarrillo3b1\rcarrillo3b1.vbproj", "{B3401B59-9221-4A0E-8F20-4B9278CD7E82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{74DC0562-5D9C-48A0-9386-EB8DE42512CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74DC0562-5D9C-48A0-9386-EB8DE42512CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74DC0562-5D9C-48A0-9386-EB8DE42512CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3401B59-9221-4A0E-8F20-4B9278CD7E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3401B59-9221-4A0E-8F20-4B9278CD7E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3401B59-9221-4A0E-8F20-4B9278CD7E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3401B59-9221-4A0E-8F20-4B9278CD7E82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
